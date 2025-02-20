@@ -38,7 +38,7 @@ function Home() {
 <div>
   <div class="flex justify-between">
     <div class= "px-10">
-    <h1 class="text-3xl font-bold font-sans italic">Luxury Redefined</h1>
+    <h2 class="text-3xl font-bold font-sans italic">Luxury Redefined</h2>
     <p class="py-3">our rooms are designed to transport  you <br/>
       into an enviroment made for leisure . <br/>
       take your mind off the day to day home <br/>
@@ -53,9 +53,9 @@ function Home() {
   
   <div class="flex justify-between px-10">
       <div>
-        <h1  class="text-3xl font-bold font-sans italic py-5">
+        <h2  class="text-3xl font-bold font-sans italic py-5">
         Leave your Worries in <br/>the sand
-      </h1>
+      </h2>
       <p>we love life at the beach.<br/>
         being close to ocean with access to endless sandy <br/>
         beach ensures a relaxed state of mind .<br/>
@@ -69,9 +69,9 @@ function Home() {
     </div>  
   </div>
   <div >
-    <h1 class="flex justify-center text-3xl font-bold font-sans italic py-5">
+    <h2 class="flex justify-center text-3xl font-bold font-sans italic py-5">
       Testimonials
-    </h1>
+    </h2>
     <p class="text-center">"Calm , serene , retro - What away to relax and enjoy"</p>
     <p class="text-center">Mr. and Mrs. Baxetry, Uk </p>
     <div class="flex justify-center gap-2">
