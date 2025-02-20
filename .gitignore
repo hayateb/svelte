@@ -8,8 +8,7 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
-/tests/
-/test-examples/
+
 
 # OS
 .DS_Store
